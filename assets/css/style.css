@@ -118,11 +118,8 @@ section.charla img.charla-speaker {
   margin-bottom: 5px;
 }
 
-.lugar p {
-  padding: 15px 600px;
-}
 
-#eventos{
+.eventos{
   text-align: center;
   margin-top: 80px;
   color: white;
